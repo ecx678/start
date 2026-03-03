@@ -1,6 +1,6 @@
 ## Project
 1. **Here in assets folder, you find this page's Penguinmod project version**
-2. **You can copy any file from this file to remix ths project**
+2. **You can copy any file from this file to remix this project**
 3. **Take them all and put into a zip file  and rename it to .pmp
     to recreate the project**
 
@@ -23,3 +23,8 @@ You are strictly prohibited from modifying this project to include any content t
 
 ## 3. Disclaimer
 This software is provided "as is", without warranty of any kind. The creator (ecx678) is not responsible for any damages or issues arising from the use of this software.
+
+
+# **NOTE!**
+1. **My Steal a brainrot version has other Licenses witch can be found in its Github repository**
+2. **This repository has its licens a bit up**
