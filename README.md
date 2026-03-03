@@ -26,4 +26,4 @@ If you want to run this locally:
 1. Clone the repository from [GitHub](https://github.com):
    ```bash
    git clone https://github.com.git
-# Licens is found in the assets folders **[README.md]()**
+# Licens is found in the assets folders **[README.md](https://github.com/ecx678/start/blob/main/assets/README.md)**
