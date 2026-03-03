@@ -3,7 +3,7 @@
 A minimalist web portal designed for quick access to gaming and custom projects. Built and hosted via [GitHub Pages](https://pages.github.com).
 
 ## 🌐 Live Access
-Check it out here: **[ecx678.github.io/start/](https://ecx678.github.io)**
+Check it out here: **[Click here](https://ecx678.github.io/start/)**
 
 ## 🚀 Main Features
 The site features a clean interface with two primary navigation buttons:
