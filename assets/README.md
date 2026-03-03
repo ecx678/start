@@ -4,7 +4,7 @@
 3. **Take them all and put into a zip file  and rename it to .pmp
     to recreate the project**
 
-## Licens
+
 
 # License & Terms of Use
 
