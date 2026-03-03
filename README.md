@@ -9,7 +9,7 @@ Check it out here: **[Click here](https://ecx678.github.io/start/)**
 ##  Credits 
 1. **Credits to Crazygames Veck.io**
 2. **Credits to **[WhalesTeam](https://penguinmod.com/profile?user=whalesteam)** for the remix off the
-steal a brainrot version.**
+**[Steal a brainrot](https://studio.penguinmod.com/?offscreen#1816264328)** version.**
 
 ## 🚀 Main Features
 The site features a clean interface with two primary navigation buttons:
