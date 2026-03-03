@@ -5,6 +5,12 @@ A minimalist web portal designed for quick access to gaming and custom projects.
 ## 🌐 Live Access
 Check it out here: **[Click here](https://ecx678.github.io/start/)**
 
+
+##  Credits 
+1. **Credits to Crazygames Veck.io**
+2. **Credits to **[Whalesteam](https://penguinmod.com/profile?user=whalesteam)** for the remix off the
+steal a brainrot version.**
+
 ## 🚀 Main Features
 The site features a clean interface with two primary navigation buttons:
 
